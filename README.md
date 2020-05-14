@@ -6,5 +6,5 @@
 * Run npm i in Cloned directory.
 * Run react-native run-android on base dir.
 * Now you can use this app on debug mode.
-
+[Google]{www.google.com}
 # Thankyou , Happy native coding.
