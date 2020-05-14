@@ -8,17 +8,8 @@
 * Now you can use this app on debug mode.
 [webdev32020@gmail.com](mailto:webdev32020@gmail.com)
 
-<table>
-    <tbody>
-        <tr>
-            <td>
-                <img src="https://i.ibb.co/dJbr7Yb/web-Dev-Poster.png" alt="web-Dev-Poster">      
-            </td>
-            <td>
-                <img src="https://i.ibb.co/mGTtYFk/Quote-Web-Dev.png" alt="Quote-Web-Dev">
-            </td>
-        </tr>
-    </tbody>
-</table>
+|1|2|2|
+|:--|:--:|--:|
+|s|s|s|
 
 # Thankyou , Happy native coding.
